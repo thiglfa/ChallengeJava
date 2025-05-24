@@ -3,7 +3,7 @@
 ## Autores:
 - Eduardo Barriviera — RM 555309
 - Thiago Lima Freitas — RM 556795
-- 
+- Bruno centurion Fernandes - RM556531
 
 
 # 🛵 Sistema de Gestão de Motos e Usuários
