@@ -33,7 +33,7 @@ Este projeto é uma API REST desenvolvida com **Spring Boot** para gerenciamento
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
-```bash
+
 2. Rode o projeto:
 ./mvnw spring-boot:run
 
